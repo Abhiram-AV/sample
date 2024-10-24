@@ -1,0 +1,8 @@
+git clone 
+
+git add . >>> add the file to staging alternatives (file is being tracked by git)
+
+git commit -m "messagee"  >>> commit the changes in tracked file
+
+git push origin main >>> pushing the file to the main branch in git hib repository
+
